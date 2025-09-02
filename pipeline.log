@@ -1,0 +1,21 @@
+2025-09-01 01:18:06,461 - INFO - Starting News Pipeline Scheduler
+2025-09-01 01:18:06,462 - INFO - Will run every 4 hours automatically
+2025-09-01 01:18:06,462 - INFO - ============================================================
+2025-09-01 01:18:06,462 - INFO - STARTING COMPLETE NEWS PIPELINE RUN
+2025-09-01 01:18:06,462 - INFO - ============================================================
+2025-09-01 01:18:06,462 - INFO - Running ingestion.py...
+2025-09-01 01:18:06,462 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py
+2025-09-01 01:18:06,759 - ERROR - ingestion.py failed with error: Traceback (most recent call last):
+  File "C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py", line 2, in <module>
+    from newspaper import Article
+ModuleNotFoundError: No module named 'newspaper'
+
+2025-09-01 01:18:06,759 - ERROR - Skipping processing due to ingestion failure
+2025-09-01 01:18:06,760 - INFO - ============================================================
+2025-09-01 01:18:06,760 - ERROR - PIPELINE FAILED after 0:00:00.296906
+2025-09-01 01:18:06,760 - INFO - ============================================================
+2025-09-01 01:18:06,760 - INFO - Scheduler started successfully!
+2025-09-01 01:18:06,760 - INFO - Next run: Every 4 hours automatically
+2025-09-01 01:18:06,760 - INFO - Check pipeline.log for detailed logs
+2025-09-01 01:18:06,760 - INFO - Press Ctrl+C to stop the scheduler
+2025-09-01 01:20:00,979 - INFO - Scheduler stopped by user

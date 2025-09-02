@@ -1,0 +1,67 @@
+﻿# Virtual environment
+../../venv/
+
+# API Keys and secrets
+config/credentials.py
+.env
+
+# Database file (we're using SQLite locally)
+*.db
+*.sqlite
+# Virtual environment
+venv/
+venv_linux/
+.env/
+
+# Database
+*.db
+*.sqlite
+news_data.db
+
+# API Keys and secrets
+config/credentials.py
+.env
+*.env
+secrets.py
+secrets.toml
+
+# PyCharm IDE
+.idea/
+*.iml
+*.ipynb
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+logs/
+pipeline.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker (if you used it)
+docker-compose.yml
+Dockerfile
+.dockerignore
+
+# Large model files (if any)
+models/
+*.pkl
+*.joblib
+*.h5
+
+# Streamlit cache
+.streamlit/
+
+# OS and IDE files
+.DS_Store
+.vscode/
+__pycache__/
+*.pyc
+
+# Airflow specific
+airflow.cfg
+airflow.db
+logs/

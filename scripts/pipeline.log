@@ -1,0 +1,576 @@
+2025-09-01 01:10:41,208 - INFO - ============================================================
+2025-09-01 01:10:41,208 - INFO - ============================================================
+2025-09-01 01:10:41,276 - INFO - ============================================================
+2025-09-01 01:10:41,277 - INFO - ============================================================
+2025-09-01 01:15:49,222 - INFO - Starting News Pipeline Scheduler
+2025-09-01 01:15:49,223 - INFO - Will run every 4 hours automatically
+2025-09-01 01:15:49,223 - INFO - ============================================================
+2025-09-01 01:15:49,223 - INFO - STARTING COMPLETE NEWS PIPELINE RUN
+2025-09-01 01:15:49,223 - INFO - ============================================================
+2025-09-01 01:15:49,223 - INFO - Running ingestion.py...
+2025-09-01 01:15:49,282 - ERROR - ingestion.py failed with error: python: can't open file 'C:\\Users\\91812\\3D Objects\\Mlops_Sentimel\\scripts\\scripts\\ingestion.py': [Errno 2] No such file or directory
+
+2025-09-01 01:15:49,282 - ERROR - Skipping processing due to ingestion failure
+2025-09-01 01:15:49,282 - INFO - ============================================================
+2025-09-01 01:15:49,283 - ERROR - PIPELINE FAILED after 0:00:00.058948
+2025-09-01 01:15:49,283 - INFO - ============================================================
+2025-09-01 01:15:49,283 - INFO - Scheduler started successfully!
+2025-09-01 01:15:49,283 - INFO - Next run: Every 4 hours automatically
+2025-09-01 01:15:49,283 - INFO - Check pipeline.log for detailed logs
+2025-09-01 01:15:49,283 - INFO - Press Ctrl+C to stop the scheduler
+2025-09-01 01:17:36,518 - INFO - Scheduler stopped by user
+2025-09-01 01:17:36,709 - INFO - Starting News Pipeline Scheduler
+2025-09-01 01:17:36,710 - INFO - Will run every 4 hours automatically
+2025-09-01 01:17:36,710 - INFO - ============================================================
+2025-09-01 01:17:36,710 - INFO - STARTING COMPLETE NEWS PIPELINE RUN
+2025-09-01 01:17:36,710 - INFO - ============================================================
+2025-09-01 01:17:36,710 - INFO - Running ingestion.py...
+2025-09-01 01:17:36,710 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py
+2025-09-01 01:17:37,065 - ERROR - ingestion.py failed with error: Traceback (most recent call last):
+  File "C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py", line 2, in <module>
+    from newspaper import Article
+ModuleNotFoundError: No module named 'newspaper'
+
+2025-09-01 01:17:37,065 - ERROR - Skipping processing due to ingestion failure
+2025-09-01 01:17:37,065 - INFO - ============================================================
+2025-09-01 01:17:37,065 - ERROR - PIPELINE FAILED after 0:00:00.354639
+2025-09-01 01:17:37,065 - INFO - ============================================================
+2025-09-01 01:17:37,065 - INFO - Scheduler started successfully!
+2025-09-01 01:17:37,065 - INFO - Next run: Every 4 hours automatically
+2025-09-01 01:17:37,065 - INFO - Check pipeline.log for detailed logs
+2025-09-01 01:17:37,065 - INFO - Press Ctrl+C to stop the scheduler
+2025-09-01 09:05:21,607 - INFO - ============================================================
+2025-09-01 09:05:21,612 - INFO - STARTING COMPLETE NEWS PIPELINE RUN
+2025-09-01 09:05:21,612 - INFO - ============================================================
+2025-09-01 09:05:21,612 - INFO - Running ingestion.py...
+2025-09-01 09:05:21,613 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py
+2025-09-01 09:05:22,024 - ERROR - ingestion.py failed with error: Traceback (most recent call last):
+  File "C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py", line 2, in <module>
+    from newspaper import Article
+ModuleNotFoundError: No module named 'newspaper'
+
+2025-09-01 09:05:22,024 - ERROR - Skipping processing due to ingestion failure
+2025-09-01 09:05:22,024 - INFO - ============================================================
+2025-09-01 09:05:22,024 - ERROR - PIPELINE FAILED after 0:00:00.412323
+2025-09-01 09:05:22,024 - INFO - ============================================================
+2025-09-01 09:07:32,107 - INFO - Scheduler stopped by user
+2025-09-01 09:07:32,334 - INFO - Starting News Pipeline Scheduler
+2025-09-01 09:07:32,334 - INFO - Will run every 4 hours automatically
+2025-09-01 09:07:32,334 - INFO - ============================================================
+2025-09-01 09:07:32,334 - INFO - STARTING COMPLETE NEWS PIPELINE RUN
+2025-09-01 09:07:32,334 - INFO - ============================================================
+2025-09-01 09:07:32,334 - INFO - Running ingestion.py...
+2025-09-01 09:07:32,335 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py
+2025-09-01 09:07:32,739 - ERROR - ingestion.py failed with error: Traceback (most recent call last):
+  File "C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py", line 2, in <module>
+    from newspaper import Article
+ModuleNotFoundError: No module named 'newspaper'
+
+2025-09-01 09:07:32,740 - ERROR - Skipping processing due to ingestion failure
+2025-09-01 09:07:32,740 - INFO - ============================================================
+2025-09-01 09:07:32,740 - ERROR - PIPELINE FAILED after 0:00:00.406216
+2025-09-01 09:07:32,740 - INFO - ============================================================
+2025-09-01 09:07:32,740 - INFO - Scheduler started successfully!
+2025-09-01 09:07:32,740 - INFO - Next run: Every 4 hours automatically
+2025-09-01 09:07:32,740 - INFO - Check pipeline.log for detailed logs
+2025-09-01 09:07:32,740 - INFO - Press Ctrl+C to stop the scheduler
+2025-09-01 09:30:56,939 - INFO - Scheduler stopped by user
+2025-09-01 13:20:50,650 - INFO - Starting News Pipeline Scheduler
+2025-09-01 13:20:50,650 - INFO - Will run every 4 hours automatically
+2025-09-01 13:20:50,650 - INFO - ============================================================
+2025-09-01 13:20:50,650 - INFO - STARTING COMPLETE NEWS PIPELINE RUN
+2025-09-01 13:20:50,650 - INFO - ============================================================
+2025-09-01 13:20:50,650 - INFO - Running ingestion.py...
+2025-09-01 13:20:50,651 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py
+2025-09-01 13:20:57,761 - INFO - ingestion.py output: Starting news ingestion...
+Article already in DB: http://9to5toys.com/2025/08/30/early-labor-day-apple-deals-live/
+Article already in DB: https://www.nintendolife.com/news/2025/08/stardew-valley-creator-announces-version-1-7-update
+Article already in DB: https://www.ign.com/articles/lg-evo-c5-4k-oled-smart-tv-deal-from-ebay-labor-day-sale-2025
+Error scraping https://www.nascar.com/videos/franchise/xfinity-series-post-race-reax/dibenedetto-checked-released-from-care-center-after-fire/: 403 Client Error: Forbidden for url: https://www.nascar.com/videos/franchise/xfinity-series-post-race-reax/dibenedetto-checked-released-from-care-center-after-fire/
+Article already in DB: https://www.pushsquare.com/news/2025/08/expect-to-pay-usd20-for-hollow-knight-silksong-on-ps5-ps4
+Article already in DB: https://people.com/google-issues-warning-to-users-after-leaked-data-hack-who-is-affected-11801009
+Article already in DB: https://www.pcmag.com/deals/best-buy-deals-labor-day-2025-tech-electronics-sales
+Article already in DB: https://thegamepost.com/all-destiny-rising-codes/
+Successfully stored 3 new articles.
+Ingestion complete.
+2025-09-01 13:20:57,761 - INFO - ingestion.py completed successfully
+2025-09-01 13:20:57,761 - INFO - Running processing.py...
+2025-09-01 13:20:57,761 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py
+2025-09-01 13:21:21,954 - ERROR - processing.py failed with error: C:\Users\91812\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\utils\_pytree.py:185: FutureWarning: optree is installed but the version is too old to support PyTorch Dynamo in C++ pytree. C++ pytree support is disabled. Please consider upgrading optree using `python3 -m pip install --upgrade 'optree>=0.13.0'`.
+  warnings.warn(
+2025-09-01 13:21:04.281387: I tensorflow/core/util/port.cc:113] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-09-01 13:21:06.458837: I tensorflow/core/util/port.cc:113] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Traceback (most recent call last):
+  File "C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py", line 3, in <module>
+    from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+ModuleNotFoundError: No module named 'vaderSentiment'
+
+2025-09-01 13:21:21,954 - INFO - ============================================================
+2025-09-01 13:21:21,955 - ERROR - PIPELINE FAILED after 0:00:31.303768
+2025-09-01 13:21:21,955 - INFO - ============================================================
+2025-09-01 13:21:21,955 - INFO - Scheduler started successfully!
+2025-09-01 13:21:21,955 - INFO - Next run: Every 4 hours automatically
+2025-09-01 13:21:21,955 - INFO - Check pipeline.log for detailed logs
+2025-09-01 13:21:21,955 - INFO - Press Ctrl+C to stop the scheduler
+2025-09-01 14:05:34,617 - INFO - Scheduler stopped by user
+2025-09-01 14:05:36,774 - INFO - Starting News Pipeline Scheduler
+2025-09-01 14:05:36,774 - INFO - Will run every 4 hours automatically
+2025-09-01 14:05:36,774 - INFO - ============================================================
+2025-09-01 14:05:36,774 - INFO - STARTING COMPLETE NEWS PIPELINE RUN
+2025-09-01 14:05:36,774 - INFO - ============================================================
+2025-09-01 14:05:36,774 - INFO - Running ingestion.py...
+2025-09-01 14:05:36,774 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py
+2025-09-01 14:05:40,857 - INFO - ingestion.py output: Starting news ingestion...
+Article already in DB: http://9to5toys.com/2025/08/30/early-labor-day-apple-deals-live/
+Article already in DB: https://www.nintendolife.com/news/2025/08/stardew-valley-creator-announces-version-1-7-update
+Article already in DB: https://www.ign.com/articles/lg-evo-c5-4k-oled-smart-tv-deal-from-ebay-labor-day-sale-2025
+Article already in DB: https://www.nascar.com/videos/franchise/xfinity-series-post-race-reax/dibenedetto-checked-released-from-care-center-after-fire/
+Article already in DB: https://mynintendonews.com/2025/08/30/no-mans-sky-update-so-big-the-game-has-had-to-be-reworked-for-its-features/
+Article already in DB: https://www.pushsquare.com/news/2025/08/expect-to-pay-usd20-for-hollow-knight-silksong-on-ps5-ps4
+Article already in DB: https://people.com/google-issues-warning-to-users-after-leaked-data-hack-who-is-affected-11801009
+Article already in DB: https://www.pcmag.com/deals/best-buy-deals-labor-day-2025-tech-electronics-sales
+Article already in DB: https://thegamepost.com/all-destiny-rising-codes/
+Article already in DB: https://gizmodo.com/whatsapp-zero-click-bug-apple-cybersecurity-2000650896
+Successfully stored 0 new articles.
+Ingestion complete.
+2025-09-01 14:05:40,857 - INFO - ingestion.py completed successfully
+2025-09-01 14:05:40,857 - INFO - Running processing.py...
+2025-09-01 14:05:40,857 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py
+2025-09-01 14:05:57,884 - ERROR - processing.py failed with error: C:\Users\91812\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\utils\_pytree.py:185: FutureWarning: optree is installed but the version is too old to support PyTorch Dynamo in C++ pytree. C++ pytree support is disabled. Please consider upgrading optree using `python3 -m pip install --upgrade 'optree>=0.13.0'`.
+  warnings.warn(
+2025-09-01 14:05:45.594209: I tensorflow/core/util/port.cc:113] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-09-01 14:05:47.307552: I tensorflow/core/util/port.cc:113] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Traceback (most recent call last):
+  File "C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py", line 3, in <module>
+    from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+ModuleNotFoundError: No module named 'vaderSentiment'
+
+2025-09-01 14:05:57,885 - INFO - ============================================================
+2025-09-01 14:05:57,885 - ERROR - PIPELINE FAILED after 0:00:21.111068
+2025-09-01 14:05:57,885 - INFO - ============================================================
+2025-09-01 14:05:57,885 - INFO - Scheduler started successfully!
+2025-09-01 14:05:57,885 - INFO - Next run: Every 4 hours automatically
+2025-09-01 14:05:57,885 - INFO - Check pipeline.log for detailed logs
+2025-09-01 14:05:57,885 - INFO - Press Ctrl+C to stop the scheduler
+2025-09-01 14:10:31,499 - INFO - Scheduler stopped by user
+2025-09-01 14:10:33,645 - INFO - Starting News Pipeline Scheduler
+2025-09-01 14:10:33,645 - INFO - Will run every 4 hours automatically
+2025-09-01 14:10:33,645 - INFO - ============================================================
+2025-09-01 14:10:33,645 - INFO - STARTING COMPLETE NEWS PIPELINE RUN
+2025-09-01 14:10:33,645 - INFO - ============================================================
+2025-09-01 14:10:33,645 - INFO - Running ingestion.py...
+2025-09-01 14:10:33,645 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py
+2025-09-01 14:10:35,226 - INFO - ingestion.py output: Starting news ingestion...
+Article already in DB: http://9to5toys.com/2025/08/30/early-labor-day-apple-deals-live/
+Article already in DB: https://www.nintendolife.com/news/2025/08/stardew-valley-creator-announces-version-1-7-update
+Article already in DB: https://www.ign.com/articles/lg-evo-c5-4k-oled-smart-tv-deal-from-ebay-labor-day-sale-2025
+Article already in DB: https://www.nascar.com/videos/franchise/xfinity-series-post-race-reax/dibenedetto-checked-released-from-care-center-after-fire/
+Article already in DB: https://mynintendonews.com/2025/08/30/no-mans-sky-update-so-big-the-game-has-had-to-be-reworked-for-its-features/
+Article already in DB: https://www.pushsquare.com/news/2025/08/expect-to-pay-usd20-for-hollow-knight-silksong-on-ps5-ps4
+Article already in DB: https://people.com/google-issues-warning-to-users-after-leaked-data-hack-who-is-affected-11801009
+Article already in DB: https://www.pcmag.com/deals/best-buy-deals-labor-day-2025-tech-electronics-sales
+Article already in DB: https://thegamepost.com/all-destiny-rising-codes/
+Article already in DB: https://gizmodo.com/whatsapp-zero-click-bug-apple-cybersecurity-2000650896
+Successfully stored 0 new articles.
+Ingestion complete.
+2025-09-01 14:10:35,226 - INFO - ingestion.py completed successfully
+2025-09-01 14:10:35,226 - INFO - Running processing.py...
+2025-09-01 14:10:35,226 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py
+2025-09-01 14:10:52,146 - ERROR - processing.py failed with error: C:\Users\91812\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\utils\_pytree.py:185: FutureWarning: optree is installed but the version is too old to support PyTorch Dynamo in C++ pytree. C++ pytree support is disabled. Please consider upgrading optree using `python3 -m pip install --upgrade 'optree>=0.13.0'`.
+  warnings.warn(
+2025-09-01 14:10:39.827488: I tensorflow/core/util/port.cc:113] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-09-01 14:10:41.339185: I tensorflow/core/util/port.cc:113] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Traceback (most recent call last):
+  File "C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py", line 3, in <module>
+    from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+ModuleNotFoundError: No module named 'vaderSentiment'
+
+2025-09-01 14:10:52,147 - INFO - ============================================================
+2025-09-01 14:10:52,147 - ERROR - PIPELINE FAILED after 0:00:18.501800
+2025-09-01 14:10:52,147 - INFO - ============================================================
+2025-09-01 14:10:52,147 - INFO - Scheduler started successfully!
+2025-09-01 14:10:52,147 - INFO - Next run: Every 4 hours automatically
+2025-09-01 14:10:52,147 - INFO - Check pipeline.log for detailed logs
+2025-09-01 14:10:52,147 - INFO - Press Ctrl+C to stop the scheduler
+2025-09-01 15:59:46,030 - INFO - Scheduler stopped by user
+2025-09-01 15:59:46,278 - INFO - Starting News Pipeline Scheduler
+2025-09-01 15:59:46,279 - INFO - Will run every 4 hours automatically
+2025-09-01 15:59:46,279 - INFO - ============================================================
+2025-09-01 15:59:46,279 - INFO - STARTING COMPLETE NEWS PIPELINE RUN
+2025-09-01 15:59:46,279 - INFO - ============================================================
+2025-09-01 15:59:46,279 - INFO - Running ingestion.py...
+2025-09-01 15:59:46,279 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py
+2025-09-01 15:59:51,318 - INFO - ingestion.py output: Starting news ingestion...
+Article already in DB: http://9to5toys.com/2025/08/30/early-labor-day-apple-deals-live/
+Article already in DB: https://www.nintendolife.com/news/2025/08/stardew-valley-creator-announces-version-1-7-update
+Article already in DB: https://www.ign.com/articles/lg-evo-c5-4k-oled-smart-tv-deal-from-ebay-labor-day-sale-2025
+Article already in DB: https://www.nascar.com/videos/franchise/xfinity-series-post-race-reax/dibenedetto-checked-released-from-care-center-after-fire/
+Article already in DB: https://mynintendonews.com/2025/08/30/no-mans-sky-update-so-big-the-game-has-had-to-be-reworked-for-its-features/
+Article already in DB: https://www.pushsquare.com/news/2025/08/expect-to-pay-usd20-for-hollow-knight-silksong-on-ps5-ps4
+Article already in DB: https://people.com/google-issues-warning-to-users-after-leaked-data-hack-who-is-affected-11801009
+Article already in DB: https://www.pcmag.com/deals/best-buy-deals-labor-day-2025-tech-electronics-sales
+Article already in DB: https://thegamepost.com/all-destiny-rising-codes/
+Article already in DB: https://gizmodo.com/whatsapp-zero-click-bug-apple-cybersecurity-2000650896
+Successfully stored 0 new articles.
+Ingestion complete.
+2025-09-01 15:59:51,318 - INFO - ingestion.py completed successfully
+2025-09-01 15:59:51,318 - INFO - Running processing.py...
+2025-09-01 15:59:51,318 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py
+2025-09-01 16:00:08,807 - ERROR - processing.py failed with error: C:\Users\91812\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\utils\_pytree.py:185: FutureWarning: optree is installed but the version is too old to support PyTorch Dynamo in C++ pytree. C++ pytree support is disabled. Please consider upgrading optree using `python3 -m pip install --upgrade 'optree>=0.13.0'`.
+  warnings.warn(
+2025-09-01 15:59:56.441073: I tensorflow/core/util/port.cc:113] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-09-01 15:59:58.054558: I tensorflow/core/util/port.cc:113] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Traceback (most recent call last):
+  File "C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py", line 3, in <module>
+    from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+ModuleNotFoundError: No module named 'vaderSentiment'
+
+2025-09-01 16:00:08,807 - INFO - ============================================================
+2025-09-01 16:00:08,807 - ERROR - PIPELINE FAILED after 0:00:22.527802
+2025-09-01 16:00:08,808 - INFO - ============================================================
+2025-09-01 16:00:08,808 - INFO - Scheduler started successfully!
+2025-09-01 16:00:08,808 - INFO - Next run: Every 4 hours automatically
+2025-09-01 16:00:08,808 - INFO - Check pipeline.log for detailed logs
+2025-09-01 16:00:08,808 - INFO - Press Ctrl+C to stop the scheduler
+2025-09-01 18:39:35,446 - INFO - Scheduler stopped by user
+2025-09-01 18:39:40,386 - INFO - Starting News Pipeline Scheduler
+2025-09-01 18:39:40,386 - INFO - Will run every 4 hours automatically
+2025-09-01 18:39:40,386 - INFO - ============================================================
+2025-09-01 18:39:40,386 - INFO - STARTING COMPLETE NEWS PIPELINE RUN
+2025-09-01 18:39:40,386 - INFO - ============================================================
+2025-09-01 18:39:40,386 - INFO - Running ingestion.py...
+2025-09-01 18:39:40,387 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py
+2025-09-01 18:39:43,279 - INFO - ingestion.py output: Starting news ingestion...
+Error fetching data from NewsAPI: HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/top-headlines?apiKey=0a461bf9eebc425a89fef5e8dd2c25d5&category=technology&pageSize=10&country=us (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000194B1E40C10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')))
+No articles fetched from API. Stopping.
+2025-09-01 18:39:43,280 - INFO - ingestion.py completed successfully
+2025-09-01 18:39:43,280 - INFO - Running processing.py...
+2025-09-01 18:39:43,280 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py
+2025-09-01 18:39:59,519 - ERROR - processing.py failed with error: C:\Users\91812\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\utils\_pytree.py:185: FutureWarning: optree is installed but the version is too old to support PyTorch Dynamo in C++ pytree. C++ pytree support is disabled. Please consider upgrading optree using `python3 -m pip install --upgrade 'optree>=0.13.0'`.
+  warnings.warn(
+2025-09-01 18:39:48.205680: I tensorflow/core/util/port.cc:113] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-09-01 18:39:49.651738: I tensorflow/core/util/port.cc:113] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Traceback (most recent call last):
+  File "C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py", line 3, in <module>
+    from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+ModuleNotFoundError: No module named 'vaderSentiment'
+
+2025-09-01 18:39:59,520 - INFO - ============================================================
+2025-09-01 18:39:59,520 - ERROR - PIPELINE FAILED after 0:00:19.133493
+2025-09-01 18:39:59,520 - INFO - ============================================================
+2025-09-01 18:39:59,520 - INFO - Scheduler started successfully!
+2025-09-01 18:39:59,520 - INFO - Next run: Every 4 hours automatically
+2025-09-01 18:39:59,520 - INFO - Check pipeline.log for detailed logs
+2025-09-01 18:39:59,520 - INFO - Press Ctrl+C to stop the scheduler
+2025-09-01 18:46:56,265 - INFO - Scheduler stopped by user
+2025-09-01 18:54:07,584 - INFO - Starting News Pipeline Scheduler
+2025-09-01 18:54:07,584 - INFO - Will run every 4 hours automatically
+2025-09-01 18:54:07,584 - INFO - ============================================================
+2025-09-01 18:54:07,584 - INFO - STARTING COMPLETE NEWS PIPELINE RUN
+2025-09-01 18:54:07,584 - INFO - ============================================================
+2025-09-01 18:54:07,584 - INFO - Running ingestion.py...
+2025-09-01 18:54:07,584 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py
+2025-09-01 18:54:21,950 - INFO - ingestion.py output: Starting news ingestion...
+Error scraping https://www.pcmag.com/deals/best-labor-day-2025-tech-electronics-deals: 403 Client Error: Forbidden for url: https://www.pcmag.com/deals/best-labor-day-2025-tech-electronics-deals
+Article already in DB: https://www.nintendolife.com/news/2025/08/stardew-valley-creator-announces-version-1-7-update
+Successfully stored 9 new articles.
+Ingestion complete.
+2025-09-01 18:54:21,950 - INFO - ingestion.py completed successfully
+2025-09-01 18:54:21,950 - INFO - Running processing.py...
+2025-09-01 18:54:21,950 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py
+2025-09-01 18:54:37,254 - ERROR - processing.py failed with error: C:\Users\91812\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\utils\_pytree.py:185: FutureWarning: optree is installed but the version is too old to support PyTorch Dynamo in C++ pytree. C++ pytree support is disabled. Please consider upgrading optree using `python3 -m pip install --upgrade 'optree>=0.13.0'`.
+  warnings.warn(
+2025-09-01 18:54:26.333377: I tensorflow/core/util/port.cc:113] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-09-01 18:54:27.746004: I tensorflow/core/util/port.cc:113] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Traceback (most recent call last):
+  File "C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py", line 2, in <module>
+    from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+ModuleNotFoundError: No module named 'vaderSentiment'
+
+2025-09-01 18:54:37,254 - INFO - ============================================================
+2025-09-01 18:54:37,255 - ERROR - PIPELINE FAILED after 0:00:29.670136
+2025-09-01 18:54:37,255 - INFO - ============================================================
+2025-09-01 18:54:37,255 - INFO - Scheduler started successfully!
+2025-09-01 18:54:37,255 - INFO - Next run: Every 4 hours automatically
+2025-09-01 18:54:37,255 - INFO - Check pipeline.log for detailed logs
+2025-09-01 18:54:37,255 - INFO - Press Ctrl+C to stop the scheduler
+2025-09-01 19:00:44,114 - INFO - Scheduler stopped by user
+2025-09-01 19:00:45,817 - INFO - Starting News Pipeline Scheduler
+2025-09-01 19:00:45,817 - INFO - Will run every 4 hours automatically
+2025-09-01 19:00:45,817 - INFO - ============================================================
+2025-09-01 19:00:45,817 - INFO - STARTING COMPLETE NEWS PIPELINE RUN
+2025-09-01 19:00:45,817 - INFO - ============================================================
+2025-09-01 19:00:45,817 - INFO - Running ingestion.py...
+2025-09-01 19:00:45,817 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py
+2025-09-01 19:00:48,171 - INFO - ingestion.py output: Starting news ingestion...
+Article already in DB: https://www.eurogamer.net/hollow-knight-silksong-will-retail-for-less-than-2020-leak-suggests
+Article already in DB: https://www.pushsquare.com/news/2025/08/helldivers-2-xbox-sales-estimates-predict-a-helluva-start-for-sonys-live-service
+Article already in DB: https://www.pcmag.com/deals/best-labor-day-2025-tech-electronics-deals
+Article already in DB: https://mynintendonews.com/2025/08/31/us-mario-kart-8-deluxe-is-currently-outselling-mario-kart-world/
+Article already in DB: https://www.buzzfeed.com/briangalindo/next-big-things-that-flopped
+Article already in DB: https://www.androidauthority.com/daily-hub-worst-google-pixel-feature-ive-ever-used-3591919/
+Article already in DB: https://www.nintendolife.com/news/2025/08/borderlands-4-post-launch-roadmap-outlines-the-first-few-months
+Article already in DB: https://wccftech.com/metal-gear-solid-delta-snake-eater-pc-users-add-lumen-rt-dlss-4-frame-gen/
+Article already in DB: https://noisypixel.net/jast-usa-banned-san-japan-2025-texas-anti-anime-law/
+Article already in DB: https://www.nintendolife.com/news/2025/08/stardew-valley-creator-announces-version-1-7-update
+Successfully stored 0 new articles.
+Ingestion complete.
+2025-09-01 19:00:48,171 - INFO - ingestion.py completed successfully
+2025-09-01 19:00:48,171 - INFO - Running processing.py...
+2025-09-01 19:00:48,171 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py
+2025-09-01 19:01:03,368 - ERROR - processing.py failed with error: C:\Users\91812\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\utils\_pytree.py:185: FutureWarning: optree is installed but the version is too old to support PyTorch Dynamo in C++ pytree. C++ pytree support is disabled. Please consider upgrading optree using `python3 -m pip install --upgrade 'optree>=0.13.0'`.
+  warnings.warn(
+2025-09-01 19:00:52.745535: I tensorflow/core/util/port.cc:113] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-09-01 19:00:54.237924: I tensorflow/core/util/port.cc:113] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Traceback (most recent call last):
+  File "C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py", line 2, in <module>
+    from vaderSentiment import SentimentIntensityAnalyzer
+ModuleNotFoundError: No module named 'vaderSentiment'
+
+2025-09-01 19:01:03,368 - INFO - ============================================================
+2025-09-01 19:01:03,369 - ERROR - PIPELINE FAILED after 0:00:17.550396
+2025-09-01 19:01:03,369 - INFO - ============================================================
+2025-09-01 19:01:03,369 - INFO - Scheduler started successfully!
+2025-09-01 19:01:03,369 - INFO - Next run: Every 4 hours automatically
+2025-09-01 19:01:03,369 - INFO - Check pipeline.log for detailed logs
+2025-09-01 19:01:03,369 - INFO - Press Ctrl+C to stop the scheduler
+2025-09-01 19:11:47,080 - INFO - Scheduler stopped by user
+2025-09-01 19:11:48,885 - INFO - Starting News Pipeline Scheduler
+2025-09-01 19:11:48,887 - INFO - Will run every 4 hours automatically
+2025-09-01 19:11:48,887 - INFO - ============================================================
+2025-09-01 19:11:48,887 - INFO - STARTING COMPLETE NEWS PIPELINE RUN
+2025-09-01 19:11:48,887 - INFO - ============================================================
+2025-09-01 19:11:48,887 - INFO - Running ingestion.py...
+2025-09-01 19:11:48,887 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py
+2025-09-01 19:11:51,466 - INFO - ingestion.py output: Starting news ingestion...
+Article already in DB: https://www.eurogamer.net/hollow-knight-silksong-will-retail-for-less-than-2020-leak-suggests
+Article already in DB: https://www.pushsquare.com/news/2025/08/helldivers-2-xbox-sales-estimates-predict-a-helluva-start-for-sonys-live-service
+Article already in DB: https://www.pcmag.com/deals/best-labor-day-2025-tech-electronics-deals
+Article already in DB: https://mynintendonews.com/2025/08/31/us-mario-kart-8-deluxe-is-currently-outselling-mario-kart-world/
+Article already in DB: https://www.buzzfeed.com/briangalindo/next-big-things-that-flopped
+Article already in DB: https://www.androidauthority.com/daily-hub-worst-google-pixel-feature-ive-ever-used-3591919/
+Article already in DB: https://www.nintendolife.com/news/2025/08/borderlands-4-post-launch-roadmap-outlines-the-first-few-months
+Article already in DB: https://wccftech.com/metal-gear-solid-delta-snake-eater-pc-users-add-lumen-rt-dlss-4-frame-gen/
+Article already in DB: https://noisypixel.net/jast-usa-banned-san-japan-2025-texas-anti-anime-law/
+Article already in DB: https://www.nintendolife.com/news/2025/08/stardew-valley-creator-announces-version-1-7-update
+Successfully stored 0 new articles.
+Ingestion complete.
+2025-09-01 19:11:51,466 - INFO - ingestion.py completed successfully
+2025-09-01 19:11:51,467 - INFO - Running processing.py...
+2025-09-01 19:11:51,467 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py
+2025-09-01 19:12:01,740 - ERROR - processing.py failed with error: Traceback (most recent call last):
+  File "C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py", line 121, in <module>
+    process_articles()
+  File "C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py", line 93, in process_articles
+    sentiment = analyze_sentiment(raw_article.title)
+  File "C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py", line 34, in analyze_sentiment
+    score = analyzer.polarity_scores(text)['compound']
+AttributeError: 'SentimentIntensityAnalyzer' object has no attribute 'polarity_scores'
+
+2025-09-01 19:12:01,740 - INFO - ============================================================
+2025-09-01 19:12:01,740 - ERROR - PIPELINE FAILED after 0:00:12.853313
+2025-09-01 19:12:01,740 - INFO - ============================================================
+2025-09-01 19:12:01,740 - INFO - Scheduler started successfully!
+2025-09-01 19:12:01,740 - INFO - Next run: Every 4 hours automatically
+2025-09-01 19:12:01,740 - INFO - Check pipeline.log for detailed logs
+2025-09-01 19:12:01,740 - INFO - Press Ctrl+C to stop the scheduler
+2025-09-01 19:13:17,235 - INFO - Scheduler stopped by user
+2025-09-01 19:13:18,687 - INFO - Starting News Pipeline Scheduler
+2025-09-01 19:13:18,687 - INFO - Will run every 4 hours automatically
+2025-09-01 19:13:18,687 - INFO - ============================================================
+2025-09-01 19:13:18,687 - INFO - STARTING COMPLETE NEWS PIPELINE RUN
+2025-09-01 19:13:18,687 - INFO - ============================================================
+2025-09-01 19:13:18,688 - INFO - Running ingestion.py...
+2025-09-01 19:13:18,688 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py
+2025-09-01 19:13:20,632 - INFO - ingestion.py output: Starting news ingestion...
+Article already in DB: https://www.eurogamer.net/hollow-knight-silksong-will-retail-for-less-than-2020-leak-suggests
+Article already in DB: https://www.pushsquare.com/news/2025/08/helldivers-2-xbox-sales-estimates-predict-a-helluva-start-for-sonys-live-service
+Article already in DB: https://www.pcmag.com/deals/best-labor-day-2025-tech-electronics-deals
+Article already in DB: https://mynintendonews.com/2025/08/31/us-mario-kart-8-deluxe-is-currently-outselling-mario-kart-world/
+Article already in DB: https://www.buzzfeed.com/briangalindo/next-big-things-that-flopped
+Article already in DB: https://www.androidauthority.com/daily-hub-worst-google-pixel-feature-ive-ever-used-3591919/
+Article already in DB: https://www.nintendolife.com/news/2025/08/borderlands-4-post-launch-roadmap-outlines-the-first-few-months
+Article already in DB: https://wccftech.com/metal-gear-solid-delta-snake-eater-pc-users-add-lumen-rt-dlss-4-frame-gen/
+Article already in DB: https://noisypixel.net/jast-usa-banned-san-japan-2025-texas-anti-anime-law/
+Article already in DB: https://www.nintendolife.com/news/2025/08/stardew-valley-creator-announces-version-1-7-update
+Successfully stored 0 new articles.
+Ingestion complete.
+2025-09-01 19:13:20,632 - INFO - ingestion.py completed successfully
+2025-09-01 19:13:20,632 - INFO - Running processing.py...
+2025-09-01 19:13:20,632 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py
+2025-09-01 19:13:34,401 - INFO - processing.py output: Python executable: C:\Users\91812\venv\Scripts\python.exe
+Starting article processing...
+Found 9 articles to process.
+Loading Zero-Shot Classification model... (This may take a moment on first run)
+Successfully processed 9 articles.
+Processing complete.
+[0m
+2025-09-01 19:13:34,401 - INFO - processing.py completed successfully
+2025-09-01 19:13:34,401 - INFO - ============================================================
+2025-09-01 19:13:34,401 - INFO - PIPELINE SUCCESS! Completed in 0:00:15.714545
+2025-09-01 19:13:34,401 - INFO - ============================================================
+2025-09-01 19:13:34,401 - INFO - Scheduler started successfully!
+2025-09-01 19:13:34,401 - INFO - Next run: Every 4 hours automatically
+2025-09-01 19:13:34,401 - INFO - Check pipeline.log for detailed logs
+2025-09-01 19:13:34,401 - INFO - Press Ctrl+C to stop the scheduler
+2025-09-01 19:46:12,417 - INFO - Scheduler stopped by user
+2025-09-01 19:46:13,873 - INFO - Starting News Pipeline Scheduler
+2025-09-01 19:46:13,873 - INFO - Will run every 4 hours automatically
+2025-09-01 19:46:13,873 - INFO - ============================================================
+2025-09-01 19:46:13,873 - INFO - STARTING COMPLETE NEWS PIPELINE RUN
+2025-09-01 19:46:13,873 - INFO - ============================================================
+2025-09-01 19:46:13,873 - INFO - Running ingestion.py...
+2025-09-01 19:46:13,873 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py
+2025-09-01 19:46:16,628 - INFO - ingestion.py output: Starting news ingestion...
+Article already in DB: https://www.eurogamer.net/hollow-knight-silksong-will-retail-for-less-than-2020-leak-suggests
+Article already in DB: https://www.pushsquare.com/news/2025/08/helldivers-2-xbox-sales-estimates-predict-a-helluva-start-for-sonys-live-service
+Article already in DB: https://www.pcmag.com/deals/best-labor-day-2025-tech-electronics-deals
+Article already in DB: https://mynintendonews.com/2025/08/31/us-mario-kart-8-deluxe-is-currently-outselling-mario-kart-world/
+Article already in DB: https://www.buzzfeed.com/briangalindo/next-big-things-that-flopped
+Article already in DB: https://www.androidauthority.com/daily-hub-worst-google-pixel-feature-ive-ever-used-3591919/
+Article already in DB: https://www.nintendolife.com/news/2025/08/borderlands-4-post-launch-roadmap-outlines-the-first-few-months
+Article already in DB: https://wccftech.com/metal-gear-solid-delta-snake-eater-pc-users-add-lumen-rt-dlss-4-frame-gen/
+Article already in DB: https://noisypixel.net/jast-usa-banned-san-japan-2025-texas-anti-anime-law/
+Article already in DB: https://www.nintendolife.com/news/2025/08/stardew-valley-creator-announces-version-1-7-update
+Successfully stored 0 new articles.
+Ingestion complete.
+2025-09-01 19:46:16,628 - INFO - ingestion.py completed successfully
+2025-09-01 19:46:16,628 - INFO - Running processing.py...
+2025-09-01 19:46:16,628 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py
+2025-09-01 19:46:24,711 - INFO - processing.py output: Python executable: C:\Users\91812\venv\Scripts\python.exe
+Starting article processing...
+No unprocessed articles found.
+[0m
+2025-09-01 19:46:24,711 - INFO - processing.py completed successfully
+2025-09-01 19:46:24,711 - INFO - ============================================================
+2025-09-01 19:46:24,712 - INFO - PIPELINE SUCCESS! Completed in 0:00:10.837559
+2025-09-01 19:46:24,712 - INFO - ============================================================
+2025-09-01 19:46:24,712 - INFO - Scheduler started successfully!
+2025-09-01 19:46:24,712 - INFO - Next run: Every 4 hours automatically
+2025-09-01 19:46:24,712 - INFO - Check pipeline.log for detailed logs
+2025-09-01 19:46:24,712 - INFO - Press Ctrl+C to stop the scheduler
+2025-09-02 00:15:58,007 - INFO - ============================================================
+2025-09-02 00:15:58,013 - INFO - STARTING COMPLETE NEWS PIPELINE RUN
+2025-09-02 00:15:58,014 - INFO - ============================================================
+2025-09-02 00:15:58,014 - INFO - Running ingestion.py...
+2025-09-02 00:15:58,014 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py
+2025-09-02 00:16:11,216 - INFO - ingestion.py output: Starting news ingestion...
+Error fetching data from NewsAPI: HTTPSConnectionPool(host='newsapi.org', port=443): Read timed out. (read timeout=10)
+No articles fetched from API. Stopping.
+2025-09-02 00:16:11,216 - INFO - ingestion.py completed successfully
+2025-09-02 00:16:11,216 - INFO - Running processing.py...
+2025-09-02 00:16:11,216 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py
+2025-09-02 00:16:23,285 - ERROR - processing.py failed with error: Traceback (most recent call last):
+  File "C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py", line 124, in <module>
+    cursor.execute("SELECT COUNT(*) FROM raw_articles")
+NameError: name 'cursor' is not defined
+
+2025-09-02 00:16:23,286 - INFO - ============================================================
+2025-09-02 00:16:23,286 - ERROR - PIPELINE FAILED after 0:00:25.271215
+2025-09-02 00:16:23,286 - INFO - ============================================================
+2025-09-02 09:39:23,972 - INFO - ============================================================
+2025-09-02 09:39:23,983 - INFO - STARTING COMPLETE NEWS PIPELINE RUN
+2025-09-02 09:39:23,983 - INFO - ============================================================
+2025-09-02 09:39:23,983 - INFO - Running ingestion.py...
+2025-09-02 09:39:23,983 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py
+2025-09-02 09:39:24,921 - INFO - ingestion.py output: Starting news ingestion...
+Error fetching data from NewsAPI: HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/top-headlines?apiKey=0a461bf9eebc425a89fef5e8dd2c25d5&category=technology&pageSize=10&country=us (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002C90BF691E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+No articles fetched from API. Stopping.
+2025-09-02 09:39:24,922 - INFO - ingestion.py completed successfully
+2025-09-02 09:39:24,922 - INFO - Running processing.py...
+2025-09-02 09:39:24,922 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py
+2025-09-02 09:39:38,736 - INFO - processing.py output: Python executable: C:\Users\91812\venv\Scripts\python.exe
+Starting article processing...
+No unprocessed articles found.
+[0m
+2025-09-02 09:39:38,736 - INFO - processing.py completed successfully
+2025-09-02 09:39:38,736 - INFO - ============================================================
+2025-09-02 09:39:38,736 - INFO - PIPELINE SUCCESS! Completed in 0:00:14.752971
+2025-09-02 09:39:38,736 - INFO - ============================================================
+2025-09-02 12:20:46,050 - INFO - Scheduler stopped by user
+2025-09-02 12:20:53,366 - INFO - Starting News Pipeline Scheduler
+2025-09-02 12:20:53,366 - INFO - Will run every 4 hours automatically
+2025-09-02 12:20:53,366 - INFO - ============================================================
+2025-09-02 12:20:53,366 - INFO - STARTING COMPLETE NEWS PIPELINE RUN
+2025-09-02 12:20:53,366 - INFO - ============================================================
+2025-09-02 12:20:53,366 - INFO - Running ingestion.py...
+2025-09-02 12:20:53,367 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py
+2025-09-02 12:21:28,186 - INFO - ingestion.py output: Starting news ingestion...
+Fetched 29 articles from API
+Error scraping https://videocardz.com/newz/msi-afterburner-september-update-focusing-on-rtx-50-pwm-controllers: 403 Client Error: Forbidden for url: https://videocardz.com/newz/msi-afterburner-september-update-focusing-on-rtx-50-pwm-controllers
+A database error occurred (likely a duplicate): (sqlite3.IntegrityError) UNIQUE constraint failed: raw_articles.url
+[SQL: INSERT INTO raw_articles (title, description, url, source, published_at, full_text, processed, created_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Hollow Knight: Silksong will retail for less than Â£20/$20, leak suggests - Eurogamer', 'Hollow Knight: Silksong will reportedly sell for around Â£17/$20/â‚¬20.', 'https://www.eurogamer.net/hollow-knight-silksong-will-retail-for-less-than-2020-leak-suggests', 'Eurogamer.net', '2025-08-31 13:34:55.000000', 'Hollow Knight: Silksong will reportedly sell for around Â£17/$20/â‚¬20. That\'s according to eagle-eyed Hollow Knight fans who spotted that the highly a ... (1205 characters truncated) ... Hollow Knight: Silksong will release on Thursday, 4th September 2025 for PC, Switch, Switch 2, PS4, PS5, Xbox One and Xbox Series. Yet contrary to wh', 0, '2025-09-02 06:51:28.131790')]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+Ingestion complete.
+2025-09-02 12:21:28,186 - INFO - ingestion.py completed successfully
+2025-09-02 12:21:28,186 - INFO - Running processing.py...
+2025-09-02 12:21:28,186 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py
+2025-09-02 12:21:39,016 - INFO - processing.py output: Python executable: C:\Users\91812\venv\Scripts\python.exe
+Starting article processing...
+No unprocessed articles found.
+[0m
+2025-09-02 12:21:39,016 - INFO - processing.py completed successfully
+2025-09-02 12:21:39,016 - INFO - ============================================================
+2025-09-02 12:21:39,016 - INFO - PIPELINE SUCCESS! Completed in 0:00:45.649838
+2025-09-02 12:21:39,016 - INFO - ============================================================
+2025-09-02 12:21:39,016 - INFO - Scheduler started successfully!
+2025-09-02 12:21:39,016 - INFO - Next run: Every 4 hours automatically
+2025-09-02 12:21:39,016 - INFO - Check pipeline.log for detailed logs
+2025-09-02 12:21:39,016 - INFO - Press Ctrl+C to stop the scheduler
+2025-09-02 13:27:54,088 - INFO - Scheduler stopped by user
+2025-09-02 13:28:17,930 - INFO - Starting News Pipeline Scheduler
+2025-09-02 13:28:17,930 - INFO - Will run every 4 hours automatically
+2025-09-02 13:28:17,930 - INFO - ============================================================
+2025-09-02 13:28:17,930 - INFO - STARTING COMPLETE NEWS PIPELINE RUN
+2025-09-02 13:28:17,930 - INFO - ============================================================
+2025-09-02 13:28:17,931 - INFO - Running ingestion.py...
+2025-09-02 13:28:17,931 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\ingestion.py
+2025-09-02 13:28:19,737 - INFO - ingestion.py output: Starting news ingestion...
+Fetched 29 articles from API
+Skipping duplicate article: https://www.gematsu.com/2025/08/final-fantasy-tactics-the-ivalice-chronicles-enhanced-opening-movie
+Skipping duplicate article: https://www.buzzfeed.com/emmalord9/random-products-come-home
+Skipping duplicate article: https://www.zdnet.com/home-and-office/home-entertainment/samsung-will-give-you-a-free-65-inch-tv-right-now-heres-how-to-qualify-for-the-deal/
+Skipping duplicate article: https://www.zdnet.com/article/you-can-still-buy-refurbished-meta-ray-ban-smart-glasses-for-76-off-how-to-find-deals/
+Skipping duplicate article: https://www.macrumors.com/2025/08/31/apple-preparing-ios-18-7/
+Skipping duplicate article: https://www.jalopnik.com/1949685/pros-cons-egr-delete/
+Skipping duplicate article: https://nintendoeverything.com/nintendo-maintenance-schedule-august-31-2025/
+Skipping duplicate article: https://www.dexerto.com/gaming/left-4-deads-creator-is-making-a-comeback-to-create-the-next-big-co-op-shooter-3244290/
+Skipping duplicate article: https://www.zdnet.com/article/samsungs-tri-fold-phone-xr-headset-and-ai-smart-glasses-to-be-revealed-at-sep-29-unpacked-event/
+Skipping duplicate article: https://kotaku.com/borderlands-4-pax-west-rage-room-gearbox-2000621767
+Skipping duplicate article: https://www.rockpapershotgun.com/skyblivion-project-lead-says-release-date-reveals-finally-getting-closer-as-oblivion-remake-mod-shows-off-revamped-intro
+Skipping duplicate article: https://9to5mac.com/2025/08/31/apple-should-bring-back-this-long-removed-imac-display-feature/
+Skipping duplicate article: https://9to5mac.com/2025/08/31/iphone-17-air-esim-only/
+Skipping duplicate article: https://onemileatatime.com/news/cathay-pacific-wi-fi/
+Skipping duplicate article: https://lifehacker.com/tech/m4-macbook-pro-labor-day-2025
+Skipping duplicate article: https://9to5mac.com/2025/08/31/carplay-ultra-hyundai-ioniq-3/
+Skipping duplicate article: http://9to5google.com/2025/08/31/chrome-android-material-3-expressive/
+Skipping duplicate article: https://www.gsmarena.com/the_iphone_17_is_coming_on_september_9_galaxy_s25_fe_rumors_week_35_in_review-news-69273.php
+Skipping duplicate article: https://wccftech.com/battlefield-6-ditched-ray-tracing-focus-performance/
+Skipping duplicate article: https://9to5mac.com/2025/08/31/what-to-expect-with-future-apple-vision-pro-models/
+Skipping duplicate article: https://www.macrumors.com/2025/08/31/11-inch-macbook-air-is-obsolete/
+Skipping duplicate article: https://www.phonearena.com/news/new-iphone-17-pro-clear-phone-cases-dont-live-up-to-their-name-or-your-expectations_id173678
+Skipping duplicate article: https://thegamepost.com/all-destiny-rising-codes/
+Skipping duplicate article: https://www.eurogamer.net/overwatch-2-takes-action-against-23000-cheats-bringing-total-of-banned-accounts-to-over-1m-players
+Skipping duplicate article: https://www.gematsu.com/2025/08/this-weeks-japanese-game-releases-hollow-knight-silksong-daemon-x-machina-titanic-scion-more
+Skipping duplicate article: https://kotaku.com/star-wars-outlaws-switch-2-assassins-creed-shadows-framerate-2000621760
+Skipping duplicate article: https://www.thejimquisition.com/post/kirby-and-the-forgotten-land-nintendo-switch-2-edition-review-the-80-grift-continues
+Skipping duplicate article: https://www.eurogamer.net/escape-from-tarkov-is-coming-to-steam
+Skipping duplicate article: https://videocardz.com/newz/msi-afterburner-september-update-focusing-on-rtx-50-pwm-controllers
+Successfully stored 0 new articles.
+Total raw articles in DB now: 39
+2025-09-02 13:28:19,738 - INFO - ingestion.py completed successfully
+2025-09-02 13:28:19,738 - INFO - Running processing.py...
+2025-09-02 13:28:19,738 - INFO - Script path: C:\Users\91812\3D Objects\Mlops_Sentimel\scripts\processing.py
+2025-09-02 13:28:28,972 - INFO - processing.py output: Python executable: C:\Users\91812\venv\Scripts\python.exe
+Starting article processing...
+No unprocessed articles found.
+[0m
+2025-09-02 13:28:28,972 - INFO - processing.py completed successfully
+2025-09-02 13:28:28,972 - INFO - ============================================================
+2025-09-02 13:28:28,972 - INFO - PIPELINE SUCCESS! Completed in 0:00:11.040306
+2025-09-02 13:28:28,972 - INFO - ============================================================
+2025-09-02 13:28:28,972 - INFO - Scheduler started successfully!
+2025-09-02 13:28:28,972 - INFO - Next run: Every 4 hours automatically
+2025-09-02 13:28:28,972 - INFO - Check pipeline.log for detailed logs
+2025-09-02 13:28:28,972 - INFO - Press Ctrl+C to stop the scheduler

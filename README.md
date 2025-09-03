@@ -4,6 +4,8 @@
 
 > **Real-time news sentiment analysis & categorization pipeline with professional dashboard**
 
+https://github.com/kritu2208/Mlops-news-sentinel/blob/f9a98797478a3523d7a2be34dbc653a621dbefea/images/Screenshot%20(11).png
+
 [![Python]([https://img.shields.io/badge/Python-3.10%2B-blue](https://github.com/kritu2208/Mlops-news-sentinel/blob/f9a98797478a3523d7a2be34dbc653a621dbefea/images/Screenshot%20(11).png))]
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.12%2B-red)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
@@ -150,3 +152,4 @@ We welcome contributions! Please see our contributing guidelines for details:
 3. Commit your changes (git commit -m 'Add some AmazingFeature')
 4. Push to the branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
+

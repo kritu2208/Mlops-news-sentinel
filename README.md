@@ -77,7 +77,7 @@
 <img width="5265" height="522" alt="Image" src="https://github.com/user-attachments/assets/da4de41f-ae75-418a-8aaa-febde8d97c9b" />
 
 ### 🔧 Core Libraries
-```python
+
 # Data Processing
 pandas, numpy, sqlalchemy, requests
 
@@ -152,6 +152,7 @@ We welcome contributions! Please see our contributing guidelines for details:
 3. Commit your changes (git commit -m 'Add some AmazingFeature')
 4. Push to the branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
+
 
 
 

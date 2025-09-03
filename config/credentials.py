@@ -1,0 +1,2 @@
+NEWSAPI_KEY = "xxxxxx"
+

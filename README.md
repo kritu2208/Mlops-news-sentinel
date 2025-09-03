@@ -1,15 +1,11 @@
 # 🚀 MLOps News Sentinel - AI-Powered News Intelligence Platform
 
-![Dashboard Demo]() *Click image to watch video demo*
-
 > **Real-time news sentiment analysis & categorization pipeline with professional dashboard**
 
-https://github.com/kritu2208/Mlops-news-sentinel/blob/f9a98797478a3523d7a2be34dbc653a621dbefea/images/Screenshot%20(11).png
-
-[![Python]([https://img.shields.io/badge/Python-3.10%2B-blue](https://github.com/kritu2208/Mlops-news-sentinel/blob/f9a98797478a3523d7a2be34dbc653a621dbefea/images/Screenshot%20(11).png))]
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.12%2B-red)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/mlops-news-sentinel?style=social)](https://github.com/your-username/mlops-news-sentinel)
+[![GitHub stars](https://img.shields.io/github/stars/kritu2208/mlops-news-sentinel?style=social)](https://github.com/kritu2208/mlops-news-sentinel)
 
 ## 📖 Introduction
 
@@ -19,7 +15,7 @@ https://github.com/kritu2208/Mlops-news-sentinel/blob/f9a98797478a3523d7a2be34db
 
 ## 🎥 Video Demo
 
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/wIS_m21-dSQ))](https://youtu.be/wIS_m21-dSQ?si=jxp5EI73HA6P5V7I)
+([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/wIS_m21-dSQ))]
 
 *Click above to watch a full walkthrough of the dashboard features and capabilities*
 
@@ -49,6 +45,19 @@ https://github.com/kritu2208/Mlops-news-sentinel/blob/f9a98797478a3523d7a2be34db
 - **RESTful API readiness** with NewsAPI integration
 - **Containerized deployment** options
 - **Comprehensive logging** and monitoring
+
+## Dashboard visuals:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bb1bbcdf-b579-4161-89ae-b380388749b3" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d9b8bbde-e553-4221-b939-15061a14b7c7" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/41ac431c-0983-4bf8-8db1-45f3616bd2a2" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f5c8a6ab-ad52-42a2-bdad-30fb5ad71a30" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ab471542-1d91-4dc8-9a62-82ae46296a54" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ec21f1ba-dfa5-47bf-96c1-199699d5661c" />
 
 ## 🛠️ Tech Stack
 
@@ -152,5 +161,6 @@ We welcome contributions! Please see our contributing guidelines for details:
 3. Commit your changes (git commit -m 'Add some AmazingFeature')
 4. Push to the branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
+
 
 

@@ -15,7 +15,7 @@
 
 ## 🎥 Video Demo
 
-([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/wIS_m21-dSQ))]
+([Click here to watch video](https://youtu.be/wIS_m21-dSQ))]
 
 *Click above to watch a full walkthrough of the dashboard features and capabilities*
 
@@ -161,6 +161,7 @@ We welcome contributions! Please see our contributing guidelines for details:
 3. Commit your changes (git commit -m 'Add some AmazingFeature')
 4. Push to the branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
+
 
 
 

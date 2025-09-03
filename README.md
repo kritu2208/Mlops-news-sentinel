@@ -15,11 +15,11 @@ https://github.com/kritu2208/Mlops-news-sentinel/blob/f9a98797478a3523d7a2be34db
 
 **MLOps News Sentinel** is an end-to-end automated pipeline that collects, analyzes, and visualizes news articles in real-time using AI and machine learning. This production-grade system performs sentiment analysis, categorizes news content, and presents insights through an interactive professional dashboard.
 
-![Dashboard Overview](https://via.placeholder.com/800x400/667eea/ffffff?text=Professional+Dashboard+Interface)
+![Dashboard Overview](<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bb1bbcdf-b579-4161-89ae-b380388749b3" />)
 
 ## 🎥 Video Demo
 
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/wIS_m21-dSQ))
 
 *Click above to watch a full walkthrough of the dashboard features and capabilities*
 
@@ -152,4 +152,5 @@ We welcome contributions! Please see our contributing guidelines for details:
 3. Commit your changes (git commit -m 'Add some AmazingFeature')
 4. Push to the branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
+
 

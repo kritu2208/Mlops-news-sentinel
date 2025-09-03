@@ -73,6 +73,9 @@
 | **Database** | SQLite, PostgreSQL-ready |
 | **Deployment** | Streamlit Cloud, Docker, Windows Task Scheduler |
 
+ 🔄Workflow Pipeline
+<img width="5265" height="522" alt="Image" src="https://github.com/user-attachments/assets/da4de41f-ae75-418a-8aaa-febde8d97c9b" />
+
 ### 🔧 Core Libraries
 ```python
 # Data Processing
@@ -86,9 +89,6 @@ streamlit, plotly, matplotlib, seaborn, wordcloud
 
 # Utilities
 schedule, logging, datetime, time
-
- 🔄Workflow Pipeline
-<img width="5265" height="522" alt="Image" src="https://github.com/user-attachments/assets/24f1d66d-1057-4519-bf3b-566ade401e4a" />
 
 📁 Project Architecture
 mlops-news-sentinel/
@@ -152,6 +152,7 @@ We welcome contributions! Please see our contributing guidelines for details:
 3. Commit your changes (git commit -m 'Add some AmazingFeature')
 4. Push to the branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
+
 
 
 

@@ -88,16 +88,7 @@ streamlit, plotly, matplotlib, seaborn, wordcloud
 schedule, logging, datetime, time
 
  🔄Workflow Pipeline
-graph LR
-A[NewsAPI] --> B[Data Ingestion]
-B --> C[SQL Database]
-C --> D[AI Processing]
-D --> E[Sentiment Analysis]
-D --> F[Category Classification]
-E --> G[Processed Data]
-F --> G
-G --> H[Dashboard Visualization]
-H --> I[User Interaction]
+<img width="5265" height="522" alt="Image" src="https://github.com/user-attachments/assets/24f1d66d-1057-4519-bf3b-566ade401e4a" />
 
 📁 Project Architecture
 mlops-news-sentinel/
@@ -161,6 +152,7 @@ We welcome contributions! Please see our contributing guidelines for details:
 3. Commit your changes (git commit -m 'Add some AmazingFeature')
 4. Push to the branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
+
 
 
 

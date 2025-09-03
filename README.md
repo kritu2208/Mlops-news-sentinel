@@ -77,7 +77,7 @@
 <img width="5265" height="522" alt="Image" src="https://github.com/user-attachments/assets/da4de41f-ae75-418a-8aaa-febde8d97c9b" />
 
 ### 🔧 Core Libraries
-
+```python
 # Data Processing
 pandas, numpy, sqlalchemy, requests
 
